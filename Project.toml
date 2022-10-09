@@ -1,6 +1,6 @@
 name = "libopenjpegextra_jll"
 uuid = "45948f9d-8d54-5094-b7bd-7e0ca68150a5"
-version = "0.0.1+0"
+version = "0.0.2+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

@@ -1,143 +1,143 @@
 [[libopenjpegextra]]
 arch = "aarch64"
-git-tree-sha1 = "688e46ac46ec96e6ec466073bbd586af3c54317d"
+git-tree-sha1 = "9997babc72121614e9855599222650386ec8728c"
 os = "macos"
 
     [[libopenjpegextra.download]]
-    sha256 = "86112fa247a23ef924ed029448b7789db325f9dc80c59fc6752af25f4d1fb055"
-    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.1+0/libopenjpegextra.v0.0.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "34722fc6b4864584896eb7c3846fbefcce18e4f587e116046d5f7ea6ee2f3928"
+    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.2+0/libopenjpegextra.v0.0.2.aarch64-apple-darwin.tar.gz"
 [[libopenjpegextra]]
 arch = "aarch64"
-git-tree-sha1 = "bf9f4c920c77dbba2a13bf3a33e5faae1baffa8d"
+git-tree-sha1 = "d981d9c400f0127992061857ae691181cb41907c"
 libc = "glibc"
 os = "linux"
 
     [[libopenjpegextra.download]]
-    sha256 = "4304caa6d7ea2277fb7cbd2d2562d8dcc15c4e9c2a9038f4c756b73fbac0fdc4"
-    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.1+0/libopenjpegextra.v0.0.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "e3b97774204a5127400403bf0b1206e499291109fd70fdf02538b6a24e362556"
+    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.2+0/libopenjpegextra.v0.0.2.aarch64-linux-gnu.tar.gz"
 [[libopenjpegextra]]
 arch = "aarch64"
-git-tree-sha1 = "1dcf00ae554a10e326646c7d372192a3f49920de"
+git-tree-sha1 = "f74f8b09ea20cf02761d3d700c020ec04f920a9d"
 libc = "musl"
 os = "linux"
 
     [[libopenjpegextra.download]]
-    sha256 = "c2c18d16b17444efb2f31bd63d2ad92b1a42f2376050cbcc31a437837c11e375"
-    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.1+0/libopenjpegextra.v0.0.1.aarch64-linux-musl.tar.gz"
+    sha256 = "3aeb0f13d51e4239f04989d541d120a996e58e0477fdcef162aa7abf2c0d89c8"
+    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.2+0/libopenjpegextra.v0.0.2.aarch64-linux-musl.tar.gz"
 [[libopenjpegextra]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "5ccf02f71e5780a8d5bda38030447b428a842c7d"
+git-tree-sha1 = "9371a5521e986669b4d1be74ddd46a7b6676ceb5"
 libc = "glibc"
 os = "linux"
 
     [[libopenjpegextra.download]]
-    sha256 = "5717ced6b30543e6f47e8fd5a920deabe468f4f20629090d63507e6f3e0c12cc"
-    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.1+0/libopenjpegextra.v0.0.1.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "26d215e752024e565a4615a4cb3e8a4d476500b5c03697ecdf8e1ffbcc19cafd"
+    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.2+0/libopenjpegextra.v0.0.2.armv6l-linux-gnueabihf.tar.gz"
 [[libopenjpegextra]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "0ad37fdfb2a08e524c67c0b20fce79b29c500f61"
+git-tree-sha1 = "c779c2f0fef48cc8bc61e36ab5ce46223cb067fa"
 libc = "musl"
 os = "linux"
 
     [[libopenjpegextra.download]]
-    sha256 = "b5aa4d7730e13ef57ef7863a1e1df8b97c1739f80a0bb89a8a3c9279fb2bf7c4"
-    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.1+0/libopenjpegextra.v0.0.1.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "49d202b9cf04dcaad921b1ff21f38b6e35571df0a89cda14abafa56f5c84cff3"
+    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.2+0/libopenjpegextra.v0.0.2.armv6l-linux-musleabihf.tar.gz"
 [[libopenjpegextra]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "2c9eee7507b71b3f5a03b14fa836f301e52bb0b9"
+git-tree-sha1 = "3ae086760d3b61c04a37a9c899b7f781f5736c3e"
 libc = "glibc"
 os = "linux"
 
     [[libopenjpegextra.download]]
-    sha256 = "f499b382e110c0de2c76d62b9795e1fc52bde8f907f468e4833d7e77b8038e29"
-    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.1+0/libopenjpegextra.v0.0.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "7e5501646067167e99eede03ea1003ff672a13b9dc22bba3e260b445be50230b"
+    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.2+0/libopenjpegextra.v0.0.2.armv7l-linux-gnueabihf.tar.gz"
 [[libopenjpegextra]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "bbc21b4e3cf5c98a1ecec0b9b1543bda5d324cb3"
+git-tree-sha1 = "316dc516c0a1996c6946b50364d7b9e66339eba9"
 libc = "musl"
 os = "linux"
 
     [[libopenjpegextra.download]]
-    sha256 = "dd319934850154d5978498e6406564190ccb10c9d8432ede421f39a33b95c481"
-    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.1+0/libopenjpegextra.v0.0.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "9322e128a56ced40a7a6f55a20867aad1353c25d49d1daa3377e5747a2606228"
+    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.2+0/libopenjpegextra.v0.0.2.armv7l-linux-musleabihf.tar.gz"
 [[libopenjpegextra]]
 arch = "i686"
-git-tree-sha1 = "152d94ee71ad940c911ad7b0473bdac1bd7b0b50"
+git-tree-sha1 = "5c8a1e342e395daf1033953698e2110b55ce670d"
 libc = "glibc"
 os = "linux"
 
     [[libopenjpegextra.download]]
-    sha256 = "08936af2b4a59e6bb0f73a95fde885d9a65c88c0cce61d6527a27d8ecaa0ba33"
-    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.1+0/libopenjpegextra.v0.0.1.i686-linux-gnu.tar.gz"
+    sha256 = "4cd1ab30dbbfd5f958f641337a37500a843dfa5cc5cc1129af439d06c89ebaec"
+    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.2+0/libopenjpegextra.v0.0.2.i686-linux-gnu.tar.gz"
 [[libopenjpegextra]]
 arch = "i686"
-git-tree-sha1 = "f653e12b970bbf3af99b22e3c02abc5b8b03e914"
+git-tree-sha1 = "d927ce9710cfeeacc8794d3b61b3c506c562ccfd"
 libc = "musl"
 os = "linux"
 
     [[libopenjpegextra.download]]
-    sha256 = "69ec87837e3b19b633f8d899997f7c679ab1025c41844030a7c7ff3cff02fef6"
-    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.1+0/libopenjpegextra.v0.0.1.i686-linux-musl.tar.gz"
+    sha256 = "bddb45fd667fb5a371ef9b5bb27dad3e84a79f7b06f1541d1323681e666ddf52"
+    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.2+0/libopenjpegextra.v0.0.2.i686-linux-musl.tar.gz"
 [[libopenjpegextra]]
 arch = "i686"
-git-tree-sha1 = "b2003883ba97b5ec128fd5c3646e4677e3034e2a"
+git-tree-sha1 = "90275cf202da3327b660daf7396bb15e86594bd6"
 os = "windows"
 
     [[libopenjpegextra.download]]
-    sha256 = "72b60b0c88478374072c1f6c033c1b45485e3a3d69ad46843ddd41867e5a1fdc"
-    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.1+0/libopenjpegextra.v0.0.1.i686-w64-mingw32.tar.gz"
+    sha256 = "3ed8349ff846077dea254515e5c1675561c0066e48a2cda49a3f967177d31abe"
+    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.2+0/libopenjpegextra.v0.0.2.i686-w64-mingw32.tar.gz"
 [[libopenjpegextra]]
 arch = "powerpc64le"
-git-tree-sha1 = "78b90d313c4128c37d3c388b40cb51024057afc4"
+git-tree-sha1 = "f204ed2d61dd2e640cef81462269a5ce8bc6d7a7"
 libc = "glibc"
 os = "linux"
 
     [[libopenjpegextra.download]]
-    sha256 = "5bee1decf62ad4337424210410c2b946917ed6035057e2e4c0e6e22417189b89"
-    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.1+0/libopenjpegextra.v0.0.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "2a02c059ea6a9973b981b4c58b58dba8363f48ce305ab646b082dc944e8424f4"
+    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.2+0/libopenjpegextra.v0.0.2.powerpc64le-linux-gnu.tar.gz"
 [[libopenjpegextra]]
 arch = "x86_64"
-git-tree-sha1 = "1ddc03bd3a9b0edd8bc3191648fb23671aae21b6"
+git-tree-sha1 = "7e6e64c247393511222e32f2b1eabc229948863b"
 os = "macos"
 
     [[libopenjpegextra.download]]
-    sha256 = "93837dca6f15a4056dc10b1c578a0900a07f66cf43b4c84dedec1af2a7ad2133"
-    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.1+0/libopenjpegextra.v0.0.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "920e95f653343a7d9c34b38848327113f0eb309eb4ab0f058305cca33576124f"
+    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.2+0/libopenjpegextra.v0.0.2.x86_64-apple-darwin.tar.gz"
 [[libopenjpegextra]]
 arch = "x86_64"
-git-tree-sha1 = "bdb5054caae6763a0a4a548a4be999c974c6495a"
+git-tree-sha1 = "3ba36f86b22201ed5fd86e11c2a0085184fdf9e7"
 libc = "glibc"
 os = "linux"
 
     [[libopenjpegextra.download]]
-    sha256 = "5f1978e573494151d7b9b5188f9faead45ba8e17bffabedcc69a9d36d57d1b0a"
-    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.1+0/libopenjpegextra.v0.0.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "07ad68e9a0b7935db5b3b26ed21288756f843527c227ba0c2089b0a48e250178"
+    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.2+0/libopenjpegextra.v0.0.2.x86_64-linux-gnu.tar.gz"
 [[libopenjpegextra]]
 arch = "x86_64"
-git-tree-sha1 = "9615cdf022f3b54809f76227c9840fd4533dd6a5"
+git-tree-sha1 = "79c77246c709c9fdff9d80244d023e4a8f60d880"
 libc = "musl"
 os = "linux"
 
     [[libopenjpegextra.download]]
-    sha256 = "f8e5d9aed3e1697781e1713b66cb5b5da548bf4039680eb48a0b9c6aa701dd4f"
-    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.1+0/libopenjpegextra.v0.0.1.x86_64-linux-musl.tar.gz"
+    sha256 = "9cc1e76deed9a270770d78bcd043c357a7ee8de0f429d81ef3e321386fed5696"
+    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.2+0/libopenjpegextra.v0.0.2.x86_64-linux-musl.tar.gz"
 [[libopenjpegextra]]
 arch = "x86_64"
-git-tree-sha1 = "6284becaf5f19ed7d8c0cdbba03b411e7e57b2d7"
+git-tree-sha1 = "6b03b9cbe78a03bc11b0489fcf0e23b1ca0ca151"
 os = "freebsd"
 
     [[libopenjpegextra.download]]
-    sha256 = "4fda83c4629faabee21cf57c78ba96df541bdd98a4b81293c8d271d960ef41d6"
-    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.1+0/libopenjpegextra.v0.0.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "0970717b8974ab1c84c69b102a19b6eb6c147a1e44c16117d5086fe838bc4ba3"
+    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.2+0/libopenjpegextra.v0.0.2.x86_64-unknown-freebsd.tar.gz"
 [[libopenjpegextra]]
 arch = "x86_64"
-git-tree-sha1 = "249c1e11009762e4ba000513d06e172aa47eb2e7"
+git-tree-sha1 = "599669a0bbb554fb2ee3743d8ed09b0c374c36b0"
 os = "windows"
 
     [[libopenjpegextra.download]]
-    sha256 = "6bad92381f85824104e458ae8c63d07e62f11ccd45b9d1952a5f807ae44f4cc4"
-    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.1+0/libopenjpegextra.v0.0.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "6acb63c9c4071cee2e222ecf48da4922f0b12d49afb5622942ea9a6259d3ab05"
+    url = "https://github.com/JuliaBinaryWrappers/libopenjpegextra_jll.jl/releases/download/libopenjpegextra-v0.0.2+0/libopenjpegextra.v0.0.2.x86_64-w64-mingw32.tar.gz"
